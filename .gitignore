@@ -14,3 +14,6 @@ unit-results.xml
 **/cypress/screenshots
 lerna-debug.log
 packages/searchkit/release
+
+# mac specific ignores
+.DS_Store
