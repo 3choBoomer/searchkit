@@ -1,5 +1,18 @@
+# 2.2.0 (20th August, 2017)
+- Passing credentials in the request (#481)
+
+# 2.1.0 (6th June, 2017)
+- Updated rc-slider library to 8.1.2
+
+# 2.1.0 (6th June, 2017)
+- FastClick switched off by default (#464)
+- Elasticsearch 5.x + Hierarchical refinement filter issue fix (#465)
+
+# 2.0.1 - Public Release (22th May, 2017)
+- MenuFilter bucketsTransform fix (#459)
+
 # 2.0.0 - Public Release (22th May, 2017)
-- Public release of 2.0.0 beta
+- Public release of 2.0.0
 
 # 2.0.0 - Beta 11 (20th May, 2017)
 - replace React.PropTypes with prop-types package (#453)
